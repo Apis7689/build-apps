@@ -18,6 +18,9 @@ excluded-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-arch = "both"                                                     # both arm64-v8a and arm-v7a
 
+[Messenger]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+
 [Twitter]
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
